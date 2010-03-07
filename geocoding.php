@@ -18,8 +18,8 @@
  * however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or
  * otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
  *
- * @author		Bert Pattyn <project-google-geocoding@dextrose.be>
- * @version		1.0
+ * @author		Bert Pattyn <bert@dextrose.be>
+ * @version		1.1
  *
  * @license		BSD License
  */

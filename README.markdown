@@ -12,9 +12,9 @@ The class is well documented inline. If you use a decent IDE you'll see that eac
 
 Changelog
 ---------
-1.1 - 21 February 2010
-- uses XML instead of JSON
-- full support for UTF-8
-- small improvements
-1.0 
-- first version!
+* version 1.1 - 21 February 2010
+  *  uses XML instead of JSON
+  *  full support for UTF-8
+  *  small improvements
+* version 1.0 
+  *  first version!
